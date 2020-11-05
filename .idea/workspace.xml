@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="393c4180-d5ea-49a6-814c-8f6426e28118" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/Index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/indexRouter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -50,6 +55,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.webpack" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604576180536</updated>
-      <workItem from="1604576181654" duration="685000" />
+      <workItem from="1604576181654" duration="2296000" />
     </task>
     <servers />
   </component>
@@ -76,9 +86,13 @@
       <screen x="0" y="23" width="2560" height="1310" />
     </state>
     <state x="789" y="317" key="SettingsEditor/0.23.2560.1310/2560.253.1920.1057@0.23.2560.1310" timestamp="1604576737402" />
-    <state x="945" y="321" width="670" height="676" key="search.everywhere.popup" timestamp="1604576562835">
+    <state x="981" y="433" width="598" height="490" key="find.popup" timestamp="1604577918663">
       <screen x="0" y="23" width="2560" height="1310" />
     </state>
-    <state x="945" y="321" width="670" height="676" key="search.everywhere.popup/0.23.2560.1310/2560.253.1920.1057@0.23.2560.1310" timestamp="1604576562835" />
+    <state x="981" y="433" width="598" height="490" key="find.popup/0.23.2560.1310/2560.253.1920.1057@0.23.2560.1310" timestamp="1604577918663" />
+    <state x="945" y="321" width="670" height="676" key="search.everywhere.popup" timestamp="1604578428653">
+      <screen x="0" y="23" width="2560" height="1310" />
+    </state>
+    <state x="945" y="321" width="670" height="676" key="search.everywhere.popup/0.23.2560.1310/2560.253.1920.1057@0.23.2560.1310" timestamp="1604578428653" />
   </component>
 </project>
