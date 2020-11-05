@@ -1,0 +1,23 @@
+{
+  "name": "vue-spa-express-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sungsu9022/vue-spa-express-starter.git"
+  },
+  "author": " <sungsu9022@naver.com> (sungsu.park <sungsu9022@naver.com>)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sungsu9022/vue-spa-express-starter/issues"
+  },
+  "homepage": "https://github.com/sungsu9022/vue-spa-express-starter#readme",
+  "dependencies": {
+    "connect-history-api-fallback": "^1.6.0",
+    "express": "^4.17.1"
+  }
+}
